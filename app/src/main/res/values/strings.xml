@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Player</string>
+    <string name="video_library_subtitle">আপনার ডিভাইসের ভিডিও</string>
+    <string name="pick_videos_button">ভিডিও যোগ করুন</string>
+    <string name="pick_from_files_button">ফাইল থেকে খুলুন</string>
+    <string name="empty_videos_title">কোনো ভিডিও যোগ করা হয়নি</string>
+    <string name="empty_videos_description">ফোনের গ্যালারি বা ফাইল থেকে ভিডিও বেছে নিয়ে সাথে সাথে প্লে করুন।</string>
+    <string name="loading_videos">ভিডিও লোড হচ্ছে…</string>
+    <string name="video_count_label">%1$dটি ভিডিও</string>
+    <string name="default_video_title">ভিডিও</string>
+    <string name="back_button_desc">ফিরে যান</string>
+    <string name="add_video_desc">গ্যালারি থেকে ভিডিও বেছে নিন</string>
+    <string name="open_file_desc">ফাইল ম্যানেজার থেকে ভিডিও খুলুন</string>
+    <string name="remove_video_desc">তালিকা থেকে সরান</string>
+    <string name="play_video_desc">ভিডিও চালান</string>
+    <string name="empty_illustration_desc">সিনেমা রিল এবং প্লে বাটন ইলাস্ট্রেশন</string>
+    <string name="player_error_message">ভিডিওটি চালানো যায়নি। অন্য একটি ফাইল চেষ্টা করুন।</string>
+    <string name="clear_list_action">তালিকা খালি করুন</string>
+</resources>
